@@ -25,4 +25,3 @@ unlicense © [Deepak Purushotham]()
 [travis-url]: https://travis-ci.org/debugpoint136/my-electrode-app
 [daviddm-image]: https://david-dm.org/debugpoint136/my-electrode-app.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/debugpoint136/my-electrode-app
-# my-electrode-app
